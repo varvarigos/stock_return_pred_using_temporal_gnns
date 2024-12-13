@@ -18,4 +18,4 @@ To reproduce the results from the project:
 4. Open the `project_code.ipynb` notebook.
 5. Press **Run All** to execute all the cells. 
 
-The hyperparameters are pre-configured to reproduce the best-performing model as described in the project. 
+The hyperparameters are pre-configured to reproduce the best-performing model as described in the report. 
