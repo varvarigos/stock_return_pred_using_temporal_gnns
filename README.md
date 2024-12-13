@@ -15,7 +15,11 @@ To reproduce the results from the project:
    ```bash
    cd stock_return_pred_using_temporal_gnns
    ```
-4. Open the `project_code.ipynb` notebook.
-5. Press **Run All** to execute all the cells. 
+4. Set up the Python environment using requirements.txt:
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. Open the `project_code.ipynb` notebook.
+6. Press **Run All** to execute all the cells. 
 
 The hyperparameters are pre-configured to reproduce the best-performing model as described in the report. 
