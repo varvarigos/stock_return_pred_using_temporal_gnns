@@ -29,7 +29,7 @@ def run_notebook(notebook_path, parameters):
                 (f'__run_index_{index}') + '.json'
 
             if file == filename:
-                # print(f"File {filename} already exists in the directory. Skipping the execution.")
+                print(f"File {filename} already exists in the directory. Skipping the execution.")
                 return
     try:
         ep.preprocess(nb, {'metadata': {'path': './'}})
